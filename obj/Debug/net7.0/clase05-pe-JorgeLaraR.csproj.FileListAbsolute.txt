@@ -1,0 +1,14 @@
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\bin\Debug\net7.0\clase05-pe-JorgeLaraR.exe
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\bin\Debug\net7.0\clase05-pe-JorgeLaraR.deps.json
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\bin\Debug\net7.0\clase05-pe-JorgeLaraR.runtimeconfig.json
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\bin\Debug\net7.0\clase05-pe-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\bin\Debug\net7.0\clase05-pe-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.AssemblyInfoInputs.cache
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.AssemblyInfo.cs
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\refint\clase05-pe-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\clase05-pe-JorgeLaraR.genruntimeconfig.cache
+C:\Users\Walter\Desktop\Clase5_programacion de computadoras\clase05-pe-JorgeLaraR\obj\Debug\net7.0\ref\clase05-pe-JorgeLaraR.dll
